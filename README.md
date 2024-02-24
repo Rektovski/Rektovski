@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Otto</h1>
+<h1 align="center">Halo 👋, I'm Otto</h1>
 <h3 align="center">Junior Front-End Developer and Master of Engineering Physics.</h3>
 <img align="center" alt="Coding" width="400" src="https://otarmurmanishvili.netlify.app/static/media/background.acb0670f6b2b9677df22.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rektovski&label=Profile%20views&color=0e75b6&style=flat" alt="rektovski" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rektovski&label=Profile%20views&color=0e75b6&style=flat" alt="rektovski" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rektovski" alt="rektovski" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rektovski" alt="rektovski" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Junior front-end projects.**
 
