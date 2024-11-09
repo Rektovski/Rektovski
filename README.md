@@ -1,6 +1,8 @@
 <h1 align="center">Halo 👋, I'm Otto</h1>
 <h3 align="center">Middle Front-End Developer and Master of Engineering Physics.</h3>
-<img align="center" alt="Coding" width="400" src="https://otarmurmanishviliold.netlify.app/static/media/background.acb0670f6b2b9677df22.webp">
+<div style={{width: "100%", margin: "0 auto"}}>
+  <img align="center" alt="Coding" width="400" src="https://otarmurmanishviliold.netlify.app/static/media/background.acb0670f6b2b9677df22.webp">
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rektovski&label=Profile%20views&color=0e75b6&style=flat" alt="rektovski" /> </p>
 
