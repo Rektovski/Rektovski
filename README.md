@@ -1,4 +1,4 @@
-<h1 align="center">Halo 👋, I'm Otto</h1>
+<h1 align="center">Gamarjoba! 👋, I'm Otto</h1>
 <h3 align="center">Middle Front-End Developer and Master of Engineering Physics.</h3>
 <p align="center">
   <img align="center" alt="Coding" width="400" src="https://otarmurmanishviliold.netlify.app/static/media/background.acb0670f6b2b9677df22.webp">
@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rektovski" alt="rektovski" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Junior front-end projects.**
+- 👯 I’m looking to collaborate on B2B, B2C or P2C business projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rektovski?tab=repositories](https://github.com/Rektovski?tab=repositories)
 
