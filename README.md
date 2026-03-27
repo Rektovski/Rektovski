@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rektovski&label=Profile%20views&color=0e75b6&style=flat" alt="rektovski" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rektovski" alt="rektovski" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rektovski"  /></a> </p>
 
 - 👯 I’m looking to collaborate on B2B, B2C or P2C business projects.
 
