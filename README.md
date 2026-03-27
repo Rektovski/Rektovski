@@ -1,5 +1,5 @@
 <h1 align="center">Gamarjoba! 👋, I'm Otto</h1>
-<h3 align="center">Middle Front-End Developer and Master of Engineering Physics.</h3>
+<h3 align="center">Middle Full Stack Developer and Master of Engineering Physics.</h3>
 <p align="center">
   <img align="center" alt="Coding" width="400" src="https://otarmurmanishviliold.netlify.app/static/media/background.acb0670f6b2b9677df22.webp">
 </p>
